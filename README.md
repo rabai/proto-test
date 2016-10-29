@@ -10,7 +10,7 @@ Lépések:
 
 2. A projektet beimportáljuk, az Eclipse lebuildeli (jobb esetben, ha mégsem: Alt+F5)
 
-3. Hozzáadjuk a szerverhez a war-t
+3. Hozzáadjuk a szerverhez a war-t (jobb klikk szerveren: Add and Remove)
 
 4. http://localhost:8080/protobuf-test/rest/protoTester/get_user címen hívhatjuk a fő logikát, amit a hu.inf.unideb.rest.ProtoTester tartalmaz
 
