@@ -1,3 +1,5 @@
+Google Protobuf kép küldés tesztelése.
+
 Ami kell hozzá:
 
 Maven, Tomcat 8.0.x
