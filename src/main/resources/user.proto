@@ -1,0 +1,9 @@
+option java_outer_classname = "ProtoUser";
+option java_package = "hu.inf.unideb.proto";
+
+message User {
+	required string rank = 1;
+    optional string name = 2;
+    repeated string authorites = 3;
+    optional bytes image = 4;
+}
