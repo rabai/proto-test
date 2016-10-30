@@ -12,6 +12,6 @@ Lépések:
 
 3. Hozzáadjuk a szerverhez a war-t (jobb klikk szerveren: Add and Remove)
 
-4. http://localhost:8080/protobuf-test/rest/protoTester/get_user címen hívhatjuk a fő logikát, amit a hu.inf.unideb.rest.ProtoTester tartalmaz
+4. http://localhost:8080/protobuf-test/proto/ProtoTester/get_user címen hívhatjuk a fő logikát, amit a hu.inf.unideb.rest.ProtoTester tartalmaz
 
 5. Eredményként a felhasználó home könyvtárában keletkezik egy másolat a resources-ben lévő képről (prototest/output.jpg)
