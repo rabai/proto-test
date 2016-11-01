@@ -7,12 +7,6 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>protobuf-test Maven Webapp</name>
 	<url>http://maven.apache.org</url>
-	<repositories>
-		<repository>
-			<id>JBoss repository</id>
-			<url>https://repository.jboss.org/nexus/content/groups/public-jboss/</url>
-		</repository>
-	</repositories>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -75,6 +69,7 @@
 					<target>1.8</target>
 				</configuration>
 			</plugin>
+			<!-- License:	Apache 2.0 -->
 			<plugin>
 				<groupId>com.github.os72</groupId>
 				<artifactId>protoc-jar-maven-plugin</artifactId>
